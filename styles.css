@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    background-color: #737373;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px 0;
+    font-size: 25px;
+  }
+
+.imagem-cabecalho {
+    width: 15%;   
+ }
+
+.cabecalho-topico-item {
+    display: inline-block;
+    margin: 0 18px;
+}
