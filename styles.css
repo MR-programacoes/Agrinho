@@ -94,3 +94,11 @@
     height: 90px;
     padding:25px 0;
 }
+
+::-webkit-scrollbar{
+    width: 6px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #0087ca;
+}
